@@ -3,7 +3,7 @@ provider "aws" {
   access_key ="AKIARDDGK2ZKAYYHMN6U"
   secret_key ="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"  
 }
-#################################################################
+#####################################################
 #Creating Production VPC with CIDR: 10.0.0.0/16
 resource "aws_vpc" "vpc" {
     cidr_block = "10.0.0.0/16" 
