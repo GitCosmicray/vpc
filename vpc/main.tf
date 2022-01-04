@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-2"
-  access_key ="AKIARDDGK2ZKAYYHMN6U"
-  secret_key ="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"  
+  access_key ="AKIARDDGK2ZKNSO2JLN5"
+  secret_key ="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"  
 }
 #####################################################
 #Creating Production VPC with CIDR: 10.0.0.0/16
